@@ -5,6 +5,7 @@ Ingredientes:
   - Cebolla
   - Huevos
   - Aceite
+  - Sal
 
 Preparación:
   1. Pelar patatas.
