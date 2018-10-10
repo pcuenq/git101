@@ -1,17 +1,19 @@
 Receta de tortilla de patatas
 
 Ingredientes:
-  - Patatas
-  - Cebolla
-  - Huevos
-  - Aceite
+  - 4 patatas
+  - 1 cebolla (dulce)
+  - 5 huevos
+  - Aceite de oliva virgen extra
   - Sal.
 
 Preparación:
-  1. Pelar patatas.
-  2. Cortar patatas.
-  3. Pelar y cortar la cebolla
+  1. Pelar y cortar las patatas.
+  2. Pelar y cortar la cebolla.
+  3. Mezclar todo y añadir sal.
   4. Freír todo a fuego no muy fuerte.
-  5. Batir los huevos.
-  
+  5. Batir los huevos añadiendo una pizca de sal.
+  6. Cuando patatas y cebollas estén hechos, separar del aceite y mezclar con el huevo.
+  7. Freíros la mezcla en la misma sartén con un pelón de aceite muy caliente, aunque mantener a fuego mediano.
+  8. Dar la vuelta a la tortilla antes de que cuaje y freír por el otro lado.
 
