@@ -1,4 +1,4 @@
-﻿Receta de tortilla de patatas
+Receta de tortilla de patatas
 
 Ingredientes:
   - Patatas
@@ -8,8 +8,9 @@ Ingredientes:
   - Sal.
 
 Preparación:
-  1. Pelar patatas.
-  2. Cortar patatas.
-  3. Calentar el aceite
-  4. Echar cebolla y patatas
+  1. Pelar patatas y cebolla.
+  2. Cortar patatas en láminas.
+  3. Cortar cebolla en juliana.
+  4. Calentar el aceite
+  5. Echar cebolla y patatas
 
